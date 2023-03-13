@@ -6,20 +6,26 @@ Git y Github
 
 1. Si aún no lo hizo, cree una cuenta en Github (o Gitlab si prefiere), e instale y configure
 el cliente de GIT que va a utilizar (colocando su nombre y dirección de correo
-electrónico), por ejemplo GitHub Desktop.
+electrónico), por ejemplo GitHub Desktop.//REALZADO
 
-2. Cree un repositorio remoto nuevo, sin ningún archivo y clonelo localmente.
+2. Cree un repositorio remoto nuevo, sin ningún archivo y clonelo localmente.//REALZADO
 
 3. Localmente, agregue un archivo txt, con un texto cualquiera, haga su primer commit y
 verifique que NO esté en el repositorio remoto. ¿Por qué no está?
 
-4. Ahora haga el push correspondiente y verifique que si esté
+NO ESTA PORQUE HAY QUE HACER EL PUSH PARA ENVIAR ESE CAMBIO AL REPOSITORIO REMOTO
+
+4. Ahora haga el push correspondiente y verifique que si esté//REALZADO
 
 5. Modifique el archivo desde la interfaz web de Github, verifique que dicho cambio NO
 está aplicado localmente ¿Por qué no está?
 
+NO ESTA PORQUE HAY QUE HACER ELPULL CORRESPONDIENE PARA BAJAR LOS CAMBIOS
+
 6. Ahora ejecute el comando correspondiente para traer los cambios y verifique que son
 visibles.
+
+//REALZADO
 
 7. Vuelva a modificar el archivo desde la interfaz web de Github, y antes de hacer el pull,
 modifique algo DISTINTO en su copia local y haga un commit de dichos cambios.
